@@ -1,5 +1,5 @@
 // A memoized program to find the nth Fibonacci number
-#include <stdio.h>
+#include <iostream>
 using namespace std;
 
 const int MAX = 1000;
